@@ -1,2 +1,5 @@
 # TrialRepo
-My first repo
+This is my first repository, created for trial purposes.
+<br>
+Auhtor : Allan Benedict
+
