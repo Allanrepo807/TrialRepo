@@ -191,9 +191,9 @@ class Program
 
 class Student
 {
-    public string Name { get; set; }
-    public int StudentId { get; set; }
-    public DateTime DOB { get; set; }
+    private string Name { get; set; }
+    private int StudentId { get; set; }
+    private DateTime DOB { get; set; }
     private Dictionary<string,int> reports = new Dictionary<string,int>();
 
 
